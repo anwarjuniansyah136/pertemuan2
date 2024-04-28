@@ -4,13 +4,13 @@
 *tulisan miring*
 ~tulisan dicoret~
 
-1.Fadly
-2.Imron
-3.Arif
+1. Fadly
+2. Imron
+3. Arif
 
--Saputra
--Samarin
--Salam
+- Saputra
+- Samarin
+- Salam
 
 [wikipedia](https://www.wikipedia.org/)
 
